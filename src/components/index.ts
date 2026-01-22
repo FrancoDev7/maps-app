@@ -1,3 +1,5 @@
+export { SearchBar } from "./SearchBar";
+
 export { MyLogo } from "./MyLogo";
 
 export { BtnMyLocation } from "./BtnMyLocation";
